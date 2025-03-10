@@ -19,6 +19,9 @@ header, footer{
     justify-content: space-between;
     padding: 0 20px;
 }
+header span{
+    font-weight: 600;
+}
 main{
     flex-grow: 1;
     display: flex;
