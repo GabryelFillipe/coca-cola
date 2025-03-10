@@ -19,6 +19,15 @@ header, footer{
     justify-content: space-between;
     padding: 0 20px;
 }
+header {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    color: #FFFFFF;
+    padding-left: 75px;
+    justify-content: flex-start;
+}
 header span{
     font-weight: 600;
 }
@@ -28,6 +37,12 @@ main{
     justify-content: center;
     align-items: center;
     background-color: #DA6062;
+}
+main {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .background-logo{
     position: absolute;
@@ -52,4 +67,17 @@ main{
 .content-image{
     height: 85vh;
 
+}
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 75px;
+    padding-left: 75px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+footer div {
+    width: 64px;
 }
