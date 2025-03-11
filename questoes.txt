@@ -29,7 +29,8 @@ R: Sua principal função é criar dominios sedidos pelo GitHub para mantermos n
 15. O que é o Flexbox no CSS e para que ele é utilizado?
 R: É um elemento que visa organizar os elementos de uma página de HTML dentro de seus containers de forma dinâmica.
 16.Qual a diferença entre justify-content e align-items em um container Flexbox?
-
+R: O justif-content Alinha os elementos do container na horizontal (eixo x), enquanto o align-items alinha na vertical (eixo y).
 17. Com o o flex-grow funciona e qual o seu propósito no layout Flexbox?
-
+R:  O flex-grow permite controlar como os elementos flexisiveis se expandam para preencher o espaço disponivel. Seu propósito é a criação de layouts flexisiveis, a distribuição uniforme e o preenchimento de espaço.
 18. Explique a diferença entre flex-direction: column; e flex-direction: row;.
+R: O flex- column organiza os itens em coluna, enquanto o flex- direction os organiza em linhas.
