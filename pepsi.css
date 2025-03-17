@@ -31,6 +31,10 @@ header {
 header span{
     font-weight: 600;
 }
+a{
+    color: #FFFFFF;
+    font-size: larger;
+}
 main {
     display: grid;
     justify-content: center;
@@ -71,6 +75,7 @@ footer{
     padding-left: 75px;
     color: #FFFFFF;
     font-weight: 100;
+    font-size: larger;
 }
 footer div {
     width: 64px;

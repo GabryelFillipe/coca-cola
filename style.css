@@ -30,6 +30,10 @@ header {
 header span{
     font-weight: 600;
 }
+a{
+    color: #FFFFFF;
+    font-size: larger;
+}
 main {
     flex-grow: 1;
     display: flex;
